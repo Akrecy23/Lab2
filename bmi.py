@@ -14,7 +14,7 @@ def calculate_bmi(height,weight):
 
     return ret_val
 def main():
-    bmi_val = calculate_bmi(1.73,57)
+    bmi_val = calculate_bmi(1,57)
 
     print(bmi_val)
 
